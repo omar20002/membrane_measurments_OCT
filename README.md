@@ -41,3 +41,4 @@ To test the error of the results, 10 random scans were chosen, and the algorithm
 
 ## Conclusion
 This project successfully used an edge detection algorithm to calculate the average thickness of biofilm from 2D-OCT scans after preprocessing and denoising filters. It is important to note that this approach assumes clear boundaries separating the biofilm from other elements in the scan. The average runtime for the code on a laptop with an Intel i5 4-core processor and 8GB of RAM is 10 seconds for a single image. Additionally, the CNN model provides a robust method for predicting future biofilm thickness measurements, enhancing the project's overall utility.
+(due confedinitility of this project no images or OCTs were uploaded to this repo)
